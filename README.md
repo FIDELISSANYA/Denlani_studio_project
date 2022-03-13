@@ -1,6 +1,6 @@
 # Delani Studio
  
- ##### By Fidelis Sanya
+ ##### Created By Fidelis Sanya
  
  ## Table of Content
  
