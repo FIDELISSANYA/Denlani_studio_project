@@ -21,6 +21,7 @@
  * Either a computer,phone,tablet or an Ipad
  
  * An access to the Internet
+ * Wifi 
  
  ### Installation Process
  
