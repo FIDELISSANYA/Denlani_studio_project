@@ -13,3 +13,44 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+
+  #demo1{
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 5px;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } 
+  #dem{
+    text-align: center;
+  }
+
+  #demo2{
+      padding: 1rem;
+      /* background-color: blue;
+      border: 2px solid; */
+      color: black;
+      text-align: center;
+  
+      
+  }
+  #demo3{
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  #demo4{
+    align-items: center;
+  }
+  .align-items-left{
+   position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
