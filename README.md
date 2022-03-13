@@ -31,11 +31,13 @@
  * CSS - which was used to style the pages incuding the left aside navigation bar
 
  * Javascript - contains the scripts necessary to run the ip.
+ *JQuery - used to add toggle and hover effects
 
  ## Reference
  * Materialize CSS Javascript
  * W3schools
  * MDN
+ * Youtube freecodecamp tutorials
  
  [Go Back to the top](#portfolio)
  
